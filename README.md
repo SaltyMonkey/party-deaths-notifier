@@ -1,0 +1,1 @@
+# party-deaths-notifier
