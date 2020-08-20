@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": true,
+    "name": "party-deaths-notifier",
+    "options": {
+        "cliName": "PDN",
+        "guiName": "Party deaths notifier",
+        "settingsVersion": 1,
+        "settingsFile": "./data/settings.json",
+        "settingsMigrator": "./lib/migration.js"
+    },
+    "author": "SaltyMonkey",
+    "description": "Simple TERA Toolbox module to show beams at dead party members position.",
+    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/party-deaths-notifier/master/"],
+    "supportUrl": "https://github.com/SaltyMonkey/party-deaths-notifier/issues"
+}

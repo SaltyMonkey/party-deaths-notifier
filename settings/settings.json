@@ -1,0 +1,9 @@
+{
+	"enabled": true,
+	"classBasedBeams": true,
+	"beamsStyle": {
+		"tank": 46703,
+		"healer": 89141,
+		"default": 89604
+	}
+}
