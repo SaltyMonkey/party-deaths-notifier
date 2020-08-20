@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "party-deaths-notifier",
     "options": {
         "cliName": "PDN",
