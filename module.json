@@ -5,7 +5,7 @@
         "cliName": "PDN",
         "guiName": "Party deaths notifier",
         "settingsVersion": 1,
-        "settingsFile": "./data/settings.json",
+        "settingsFile": "./settings/settings.json",
         "settingsMigrator": "./lib/migration.js"
     },
     "author": "SaltyMonkey",
